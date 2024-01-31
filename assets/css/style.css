@@ -164,4 +164,18 @@ img {
         min-width: 75%;
         margin: 1rem 0;
     }
+
+    .steps{
+        margin-bottom: 0;
+    }
+
+    .why-us{
+        margin: 0;
+        background-color: black;
+    }
+
+    .why-us .container{
+        padding: 3rem 0;
+
+    }
 }
